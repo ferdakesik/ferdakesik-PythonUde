@@ -18,3 +18,6 @@ print(name + f" is {age} years old")
 print(f" pi is approx {22/7:12.50f}")
 pi=22/7
 print(f" pi is approx {pi:12.50f}")
+
+print("Giraffe\nAcademy")
+print("Giraffe Academy")
